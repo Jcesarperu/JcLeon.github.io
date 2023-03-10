@@ -12083,7 +12083,7 @@ pre .code {
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-  max-width: 550px;
+  max-width: 650px;
 }
 
 .header .header-content .header-title .up {
@@ -12103,7 +12103,7 @@ pre .code {
 }
 
 .header .header-content .header-subtitle {
-  font-size: calc(5px + (150 - 10) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(10px + (20 - 10) * ((100vw - 300px) / (1300 - 300)));
   letter-spacing: calc(1px + (7 - 1) * ((100vw - 300px) / (1300 - 300)));
   opacity: .8;
   margin-top: -10px;
